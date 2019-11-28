@@ -1,1 +1,1 @@
-# HRManagementSystem
+H R Management System is based on the concept to generate the Employee’s records and to add their records and update it. Here User can add their Employee’s details safely and it’s not time consuming. This System makes easy to store records of each and every employees. The whole project is designed in ‘C’ language.
